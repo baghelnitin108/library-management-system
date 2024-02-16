@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: aquamarine;
+    
+    
+}
+
+.nav{
+    color: antiquewhite;
+}
+
+
+
+
+.div1{
+    margin: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    
+}
+
+.return{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+.loginform{
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 400px;
+    white-space: 2px;
+}
+
+
+
+
+
